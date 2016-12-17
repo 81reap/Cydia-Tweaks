@@ -1,0 +1,10 @@
+Package: com.hax0rdoge.samestatus
+Name: SameStatus
+Depends: mobilesubstrate
+Conflicts: com.hax0rdoge.leo
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Changes the size of the lockscreen statusbar to match the one on the homescreen.
+Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
+Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
+Section: Tweaks

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title</key>
+	<string>WebScrollin</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>defaults</key>
+			<string>com.hax0rdoge.samestatuspreferences</string>
+			<key>key</key>
+			<string>samestatusEnabled</string>
+			<key>label</key>
+			<string>Enabled</string>
+			<key>default</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>height</key>
+			<string>20</string>
+			<key>footerText</key>
+			<string>© 2016 Prayag Bhakar (Hax0rDoge)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>action</key>
+			<string>reportBug</string>
+			<key>icon</key>
+			<string>bug.png</string>
+			<key>label</key>
+			<string>Report a bug</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>SSBCreditsListController</string>
+			<key>icon</key>
+			<string>credits.png</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Credits</string>
+		</dict>
+	</array>
+</dict>
+</plist>
