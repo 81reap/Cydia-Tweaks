@@ -1,0 +1,9 @@
+Package: com.hax0rdoge.squirclebookmarks
+Name: SquircleBookmarks
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Prayag Bhakar
+Author: Prayag Bhakar
+Section: Tweaks

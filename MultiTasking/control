@@ -1,0 +1,9 @@
+Package: com.hax0rdoge.multitasking
+Name: MultiTasking
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable multiTasking on nonsupported iOS devices.
+Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
+Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
+Section: Tweaks

@@ -1,0 +1,10 @@
+Package: com.hax0rdoge.onehanded
+Name: OneHanded
+Depends: mobilesubstrate
+Conflicts: com.fpt.onehanded, com.hax0rdoge.leo
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enables built-in one-handed keyboard. Swipe to enable.
+Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
+Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
+Section: Tweaks
