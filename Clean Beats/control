@@ -1,0 +1,10 @@
+Package: com.hax0rdoge.cleanbeats
+Name: CleanBeats
+Depends: mobilesubstrate
+Conflicts: com.hax0rdoge.leo
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
+Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
+Section: Tweaks

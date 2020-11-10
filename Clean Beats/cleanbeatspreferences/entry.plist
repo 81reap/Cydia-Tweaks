@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entry</key>
+	<dict>
+		<key>bundle</key>
+		<string>cleanbeatspreferences</string>
+		<key>cell</key>
+		<string>PSLinkCell</string>
+		<key>detail</key>
+		<string>CBSRootListController</string>
+		<key>icon</key>
+		<string>cleanBeats.png</string>
+		<key>isController</key>
+		<true/>
+		<key>label</key>
+		<string>Clean Beats</string>
+	</dict>
+</dict>
+</plist>
