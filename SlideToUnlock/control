@@ -1,0 +1,10 @@
+Package: com.hax0rdoge.slidetounlock
+Name: SlideToUnlock
+Depends: mobilesubstrate
+conflicts: com.hax0rdoge.leo
+Version: 2.1
+Architecture: iphoneos-arm
+Description: Change "slide to unlock" text on the lock screen.
+Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
+Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
+Section: Tweaks
