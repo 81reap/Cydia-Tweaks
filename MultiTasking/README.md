@@ -4,7 +4,7 @@ A tiny Cydia tweak to allow iPad multi taking features on any device.
 
 ### Installing the Tweak
 
-1. Add my repo by adding https://hax0rdoge.github.io/repo/ manually.
+1. Add my repo by adding https://prayagbhakar.github.io/repo/ manually.
 2. Refresh sources.
 3. Serch for MultiTasking or navigate to the package through my repo in Cydia.
 4. Install.
@@ -20,7 +20,7 @@ A tiny Cydia tweak to allow iPad multi taking features on any device.
 
 BSD 3-Clause License
 
-Copyright (c) 2016-2017, Prayag Bhakar (Hax0rDoge) 
+Copyright (c) 2016, Prayag Bhakar
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

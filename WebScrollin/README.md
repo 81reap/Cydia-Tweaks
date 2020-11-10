@@ -1,11 +1,9 @@
 # WebScrollin
-[![Build Status](https://travis-ci.org/Hax0rDoge/WebScrollin.svg?branch=master)](https://travis-ci.org/Hax0rDoge/WebScrollin)
-
 A tiny Cydia tweak to speed up UIWebBrowserView.
 
 ### Installing the Tweak
 
-1. Add my repo by adding https://hax0rdoge.github.io/repo/ manually.
+1. Add my repo by adding https://prayagbhakar.github.io/repo/ manually.
 2. Refresh sources.
 3. Search for WebScrollin or navigate to the package through my repo in Cydia.
 4. Install.
@@ -21,7 +19,7 @@ A tiny Cydia tweak to speed up UIWebBrowserView.
 
 BSD 3-Clause License
 
-Copyright (c) 2016, Prayag Bhakar (Hax0rDoge)
+Copyright (c) 2016, Prayag Bhakar
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
