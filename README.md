@@ -1,5 +1,5 @@
 # Cydia Tweaks
-Various small tweaks for Cydia.
+Various small tweaks for Cydia. These were developed around iOS 9/10 and may not work on modern devices.
 
 # Licence
 BSD 3-Clause License
